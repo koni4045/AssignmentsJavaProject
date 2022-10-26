@@ -38,7 +38,7 @@ public class SierpinskiTriangle {
                     x=x-dx/2;
                     y=y-dy/2;//updating x and y values
                 }
-                g.drawString("Sierpinski Triangle",462,484);//printing string at specific values
+                g.drawString("Sierpinski Triangle update",462,484);//printing string at specific values
             }
         };
         frame.add(panel);
